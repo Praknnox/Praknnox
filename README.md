@@ -1,8 +1,8 @@
 <h2>Hello, it's Pankorn</h2>
 <h3>Quick facts-</h3>
-- &nbsp; Since I'm here, I obviously have some coding skills <br>
+- &nbsp; Not that good at coding, but good enough <br>
 - &nbsp; Currently enrolled in Bloomtech <br>
--
+- &nbsp; Mainly use JS
 <p></p>
 <h3>Contact info:</h3>
 email: sirimanivongp@gmail.com
